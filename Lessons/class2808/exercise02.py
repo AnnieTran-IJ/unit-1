@@ -28,7 +28,7 @@ if lesson == "3":
 if lesson == "4":
     count = 0
     number_for_iteration = input("Enter a number: ")
-    if number_for_iteration < 10:
+    if int(number_for_iteration) < 10:
         print(number_for_iteration)
         count = 1
         print(count)
@@ -37,15 +37,23 @@ if lesson == "4":
         count = 1
         print(count)
     else:
-        while number_for_iteration != "0" and len (number_for_iteration) != 1:
-            print(f"{iteration*}")
-            count += 1
-        print 0
+        while int(number_for_iteration) > 10:
+            product = 1
+            for digit in str(number_for_iteration):
+                product = product * int(digit)
+            number_for_iteration = product 
+            print(f"The result is: {number_for_iteration}")
+
 
 
     # iteration = 0
     # while number_for_iteration > 0:
     #     iteration += number_for_iteration % 10
     #     number_for_iteration /= 10 #i = i/10 -> i \n
+
+
+
+
+
 
 
