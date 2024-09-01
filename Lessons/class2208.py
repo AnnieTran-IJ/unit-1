@@ -1,4 +1,4 @@
-
+```.py
 # name = input("Enter your name: ")
 # print("Hi", name)
 # print(f"hi {name}") #fstring to add variable without ending the quotation mark
@@ -20,4 +20,6 @@ if outcome > 2*basemoney:
 else:
     print("🥹")
 
+
+```
 
