@@ -23,5 +23,6 @@ output = find_largest_number(N)
 print("Largest number:", output)
 ```
 ## Proof of work
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/df7f6f6c-935c-4b64-b4de-320a9ea3434b)
+
 
