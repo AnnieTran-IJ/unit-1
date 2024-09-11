@@ -39,4 +39,6 @@ for _ in range(10):
 ```
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/29cf335b-b115-4794-8897-288db7fc9e9e)
+![image](https://github.com/user-attachments/assets/da5e3d27-9667-4689-a4a0-d469d5b0c6ae)
+
 
