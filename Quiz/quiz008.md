@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/6bc8eb26-f29e-44d6-8b63-f7faf99e50cf)# Quiz 008
 
 ## Paper Solution
-![image](https://github.com/user-attachments/assets/69e63f0a-f22f-4197-bc1b-735bca221a89)
+![image](https://github.com/user-attachments/assets/3fd266e5-4e99-4a2e-aff6-b0c4d7c45ca7)
+
 
 ## Flow Chart
 ## Code
