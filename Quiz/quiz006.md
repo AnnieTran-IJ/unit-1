@@ -7,22 +7,36 @@
 ## Code
 ```.py
 import random
-import string
+alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+symbols = "!@#$%^&*"
 
+def generate_password(length, include_symbols):
+    if include_symbols:
+        character_option = alphabet + symbols
+    else:
+        character_option= alphabet
 
-def generate_password(length):
-    characters = string.ascii_letters + string.digits
-    passwords_list = []
+    password = ""
     for i in range(length):
-        char = random.choice(characters)
-        passwords_list.append(char)
-    password = ''.join(passwords_list)
+        n = random.randint(0, len(character_option) - 1)
+        password += character_option[n]
+
     return password
 
-#test:
-for time in range(10):
-    print(generate_password(20))
+
+length = 20
+end_code = "\033[00m"
+red = "\33[0;31m"
+symbol_preference = input("Do you want to include symbols in the passwords? (TRUE/FALSE): ").upper() #upper is to make everything uppercase letters
+include_symbols = symbol_preference == "TRUE"
+for _ in range(10):
+    password = generate_password(length, include_symbols)
+    if include_symbols:
+        print(f"{red}{password}{end_code}")
+    else:
+        print(password)
 
 ```
 ## Proof of work
-![image](https://github.com/user-attachments/assets/06d604c9-f3e0-4c8e-ac9f-041b7317af25)
+![image](https://github.com/user-attachments/assets/29cf335b-b115-4794-8897-288db7fc9e9e)
+
