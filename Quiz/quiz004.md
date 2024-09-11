@@ -1,6 +1,7 @@
 # Quiz 004
 
 ## Paper Solution
+![Uploading image.png…]()
 
 ## Code
 ```.py
