@@ -8,7 +8,19 @@ Choose one of the flow diagrams on the whiteboard, create the trace table, code 
 ## Flow Chart
 ## Code
 ```.py
-print("Hello World")
+def find_largest_number(N):
+    if len(N) == 0:
+        return None
+    m = N[0]
+    for i in N:
+        if i > m:
+            m = i
+    return m
+
+# Example usage
+N = [-1, 3, 5, 10, 15]
+output = find_largest_number(N)
+print("Largest number:", output)
 ```
 ## Proof of work
 *Run it with the input and output given*
