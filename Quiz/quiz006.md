@@ -1,6 +1,7 @@
-# Quiz 005
+# Quiz 006
 
 ## Paper Solution
+![image](https://github.com/user-attachments/assets/87d25d48-a3f8-4783-8544-ef19772a32ea)
 
 ## Flow Chart
 ## Code
