@@ -3,8 +3,6 @@
 ## Paper Solution
 ![image](https://github.com/user-attachments/assets/3fd266e5-4e99-4a2e-aff6-b0c4d7c45ca7)
 
-
-## Flow Chart
 ## Code
 ```.py
 def room_name(room_order):
