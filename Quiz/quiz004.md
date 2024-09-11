@@ -2,8 +2,6 @@
 
 ## Paper Solution
 
-## Flow Chart
-
 ## Code
 ```.py
 def factorial(num):
