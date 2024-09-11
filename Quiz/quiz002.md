@@ -3,8 +3,6 @@
 ## Paper Solution
 ![image](https://github.com/user-attachments/assets/ad8e518b-5d9c-46e4-9ed7-a6710dd176e2)
 
-## Flow Chart
-
 ## Code
 ```.py
 #Quiz:
