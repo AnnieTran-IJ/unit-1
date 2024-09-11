@@ -1,8 +1,7 @@
 # Quiz 005
 
 ## Paper Solution
-
-## Flow Chart
+![image](https://github.com/user-attachments/assets/6af01a65-82fa-4873-b57d-e1ed49859bb4)
 
 ## Code
 ```.py
