@@ -2,12 +2,22 @@
 
 ## Criterion A: Planning
 ### Problem definition: 
-My client is a Vacation Home Management Company, residing in Karuizawa, a tourist-heavy town in the middle of Japan. This company is responsible for overseeing and maintaining the state of multiple vacation homes in the area. The majority of their customers, or the vacation home owners, belong to the upper-middle class or high-working class. Therefore, they tend to have high expectations of how the little chores and specific things around the house should be taken care of and there is usually a fixed group of people managing a certain set of houses, such as property managers, maintenance staff, and temporary workers. These employees often have to access confidential information like passwords for security systems, Wi-Fi networks, private customer accounts, and even private itineraries. Thus, this sensitive information needs to be handled discreetly, and as the company's scale expands to more houses over holiday seasons, the databases also get expanded. As all the company's employees were accessing on the same database, exposing the data for unauthorized staff, they have a needs to create an updated management program for their database.
+The company is responsible for overseeing and maintaining multiple vacation homes in the area. Most of their customers, who are vacation home owners, belong to the upper-middle class or the high-working class. Consequently, they have high expectations for the maintenance and management of their properties. The company has a fixed group of employees, including property managers, maintenance staff, and temporary workers, who are responsible for managing specific sets of houses. These employees often need to access confidential information, such as security system passwords, Wi-Fi networks, private customer accounts, and private itineraries. It's essential that this sensitive information be handled discreetly. As the company expands to manage more houses during the holiday seasons, the size of their databases also grows. Currently, all of the company's employees have access to the same database, which poses a security risk. Therefore, the company has a need to create an updated management program for their database.
 
 ### Proposed solution: 
-Hence, I come in to provide the company with a custom-built tool disguised as a simple to-do-list app. The program serves dual purposes: as an application for tracking tasks, and, when the hidden code is entered, it transforms into a basic password manager. This allows authorized employees to securely access passwords without drawing attention or compromising security.
+Thus, I proposed to develop a custom-built, multi-functional tool for the company. It serves as both a task-tracking application and, upon entering the designated code, transitions into a basic password manager. This program enables authorized employees of each house within the organization to securely access passwords without attracting unnecessary attention or compromising security.
 ### Success Criteria
-
+#### I. Task Tracking Mode (Default Mode):
+  * The users can input new tasks, mark tasks as done, and view the total list of tasks
+#### II. Secret Code for Switching Modes:
+  * When the user enters the secret code (e.g., open123), the program will switch from task tracking to password manager mode.
+  * The program will automatically exit after the third incorrect attempt.
+  * No visible indication that the password manager exists unless the correct code is entered.
+#### III. Password Manager Mode (Secure Mode):
+  * The users can view the total list of passwords, create new passwords, update current passwords, or delete passwords (confirmation needed).
+  * Passwords will be securely encrypted when stored (using alphabet rotation).
+  * The password manager feature will automatically exit after 30 seconds of inactivity to prevent unauthorized access.
+#### IV. Others: 
 ## Criterion B: Design
 ### System Diagram
 ### Flow diagrams for algorithms
