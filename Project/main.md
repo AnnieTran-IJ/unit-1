@@ -14,10 +14,12 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
   * The program will automatically exit after the third incorrect attempt.
   * No visible indication that the password manager exists unless the correct code is entered.
 #### III. Password Manager Mode (Secure Mode):
-  * The users can view the total list of passwords, create new passwords, update current passwords, or delete passwords (confirmation needed).
+  * The users can perform CRUD operations (Create, Replace, Update, Delete): view the stored list of passwords, create and add new passwords, update current passwords, or delete passwords (confirmation needed).
   * Passwords will be securely encrypted when stored (using alphabet rotation).
   * The password manager feature will automatically exit after 30 seconds of inactivity to prevent unauthorized access.
+  * Save passwords permanently and securely.
 #### IV. Others: 
+ * The terminal is where users interact with the program.
 ## Criterion B: Design
 ### System Diagram
 ### Flow diagrams for algorithms
