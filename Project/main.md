@@ -31,7 +31,7 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
 |-------------|-----------------------------|-----------------------------------------------------------------|----------------|------------------------|-----------|
 | 1           | Consulting with the client about the success criteria and their expectations of the project outcome. | Create a detailed list of requirements and basic outline of the program. | 25 min | Sep 12 | A |
 | 2           | Develop the welcome interface to default mode|  Make sure it's short, concise and there is validation for the user's input| 10 mins| Sep 19        |
-|             |                             |                                                                 |                |                        |           |
+| 3            | Design and complete system diagram |                                                                 |                |                        |           |
 |             |                             |                                                                 |                |                        |           |
 |             |                             |                                                                 |                |                        |           |
 |             |                             |                                                                 |                |                        |           |
