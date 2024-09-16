@@ -23,6 +23,7 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
 ## Criterion B: Design
 ### System Diagram
 ![2025  Project Unit1 (1)](https://github.com/user-attachments/assets/6b2fb7c0-865e-4949-a3a6-3e79a7760b7e)
+
 **Fig 1** System Diagram showing the minimal requirement for the hardware and software used for
 proposed solution. The lock indicates encryption.
 ### Flow diagrams for algorithms
