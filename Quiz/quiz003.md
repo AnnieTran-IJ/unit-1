@@ -10,13 +10,16 @@ for time in range(6):
     for i in range(len(dna)):
         if dna[i] == 'A':
             print("T")
-        if dna[i] == 'G':
+        elif dna[i] == 'G':
             print("C")
-        if dna[i] == 'T':
+        elif dna[i] == 'T':
             print("A")
-        if dna[i] == 'C':
+        elif dna[i] == 'C':
             print("G")
+        else:
+            print("Input invalid")
 ```
 ## Proof of work
-![image](https://github.com/user-attachments/assets/8a42ed2e-56fb-46c1-86ca-3ca21036fcdd)
+![image](https://github.com/user-attachments/assets/7d831680-568c-40ca-b7f9-bf9317a7047d)
+
 
