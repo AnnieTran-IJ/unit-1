@@ -22,6 +22,9 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
  * The terminal is where users interact with the program.
 ## Criterion B: Design
 ### System Diagram
+![2025  Project Unit1 (1)](https://github.com/user-attachments/assets/6b2fb7c0-865e-4949-a3a6-3e79a7760b7e)
+**Fig 1** System Diagram showing the minimal requirement for the hardware and software used for
+proposed solution. The lock indicates encryption.
 ### Flow diagrams for algorithms
 ### Data storage
 ### Sketches of the application (wireframe diagrams)
@@ -33,7 +36,7 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
 |-------------|-----------------------------|-----------------------------------------------------------------|----------------|------------------------|-----------|
 | 1           | Consulting with the client about the success criteria and their expectations of the project outcome. | Create a detailed list of requirements and basic outline of the program. | 25 min | Sep 12 | A |
 | 2           | Develop the welcome interface to default mode|  Make sure it's short, concise and there is validation for the user's input| 10 mins| Sep 19        |
-| 3            | Design and complete system diagram |                                                                 |                |                        |           |
+| 3            | Design and complete system diagram | |                |                        |           |
 |             |                             |                                                                 |                |                        |           |
 |             |                             |                                                                 |                |                        |           |
 |             |                             |                                                                 |                |                        |           |
