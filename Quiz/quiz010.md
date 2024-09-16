@@ -1,7 +1,7 @@
 # Quiz 010
 
 ## Paper Solution
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/660e1e48-f50c-459f-bfd0-2b8d67bde9e8)
 
 ## Flow Chart
 ## Code
