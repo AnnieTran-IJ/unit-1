@@ -3,6 +3,9 @@
 ## Paper Solution
 ![image](https://github.com/user-attachments/assets/aa5676fd-40ab-4890-b6f0-d8160502761b)
 
+## Flowchart
+![image](https://github.com/user-attachments/assets/c7484ca2-2525-42db-9c37-21030df3826f)
+
 ## Code
 ```.py
 for time in range(6):
