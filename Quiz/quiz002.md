@@ -1,7 +1,8 @@
 # Quiz 002
-![image](https://github.com/user-attachments/assets/53704c7f-0378-4c59-9c34-48b3fbb53c68)
 ## Paper Solution
 ![image](https://github.com/user-attachments/assets/ad8e518b-5d9c-46e4-9ed7-a6710dd176e2)
+## Flowchart
+![image](https://github.com/user-attachments/assets/f03b82ed-1823-437b-a1a0-5c3497450624)
 
 ## Code
 ```.py
