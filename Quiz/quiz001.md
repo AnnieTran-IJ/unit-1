@@ -3,6 +3,9 @@
 ## Paper Solution
 ![image](https://github.com/user-attachments/assets/111d36fd-ce4b-453c-b8d9-5b227c3022e3)
 
+## Flowchart
+![image](https://github.com/user-attachments/assets/9b2c0fab-ced1-4368-aea8-130fd8aca46b)
+
 ## Code
 ```.py
 def processandcount(i):
