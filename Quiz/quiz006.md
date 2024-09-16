@@ -3,6 +3,9 @@
 ## Paper Solution
 ![image](https://github.com/user-attachments/assets/87d25d48-a3f8-4783-8544-ef19772a32ea)
 
+## Flowchart
+![image](https://github.com/user-attachments/assets/af8b9165-c50e-440b-87e1-e293c1290c5d)
+
 ## Code
 ```.py
 import random
