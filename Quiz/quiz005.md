@@ -3,6 +3,9 @@
 ## Paper Solution
 ![image](https://github.com/user-attachments/assets/6af01a65-82fa-4873-b57d-e1ed49859bb4)
 
+## Flowchart
+![image](https://github.com/user-attachments/assets/e133013f-6510-4260-a8d4-19b128a81621)
+
 ## Code
 ```.py
 # ASCII value of 'A' is 65.
