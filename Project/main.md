@@ -29,7 +29,8 @@ the proposed solution and subfiles of each program feature. The lock indicates e
 ### Flow diagrams for algorithms
 ### Data storage
 ### Sketches of the application (wireframe diagrams)
-
+![Frame 1](https://github.com/user-attachments/assets/9ce6c9d5-551a-4e76-8a74-e1ac8c345960)
+**Fig ...** UI Wireframe of the application from front (to-do list program) to back (password management) features. (Click on the picture to zoom in)
 ### Test plan
 
 ## Record of Tasks
