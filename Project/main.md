@@ -14,7 +14,7 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
   * The program will automatically exit after the third incorrect attempt.
   * No visible indication that the password manager exists unless the correct code is entered.
 #### III. Password Manager Mode (Secure Mode):
-  * The users can perform CRUD operations (Create, Replace, Update, Delete): view the stored list of passwords, create and add new passwords, update current passwords, or delete passwords (confirmation needed).
+  * The users can perform CRUD operations (Create, Read, Update, Delete): view the stored list of passwords, create and add new passwords, update current passwords, or delete passwords (confirmation needed).
   * Passwords will be securely encrypted when stored (using alphabet rotation).
   * The password manager feature will automatically exit after 30 seconds of inactivity to prevent unauthorized access.
   * Save passwords permanently and securely.
@@ -35,10 +35,10 @@ the proposed solution and subfiles of each program feature. The lock indicates e
 ## Record of Tasks
 | Task Number | Planned Action              | Planned Outcome                                                 | Time Estimated | Target Completion Date | Criterion |
 |-------------|-----------------------------|-----------------------------------------------------------------|----------------|------------------------|-----------|
-| 1           | Consulting with the client about the success criteria and their expectations of the project outcome. | Create a detailed list of requirements and basic outline of the program. | 25 min | Sep 12 | A |
-| 2           | Develop the welcome interface to default mode|  Make sure it's short, concise and there is validation for the user's input| 10 mins| Sep 19|C|
-| 3            | Design and complete system diagram | Create a diagram of minimal requirements for the program and the meaning of the symbol.|10 mins|Sep 16|A|          |
-|             |                             |                                                                 |                |                        |           |
+| 1           | Consulting with the client about the success criteria and their expectations of the project outcome. | Create a detailed list of requirements and a basic outline of the program. | 25 min | Sep 12 | A |
+| 2           | Develop the welcome interface to default mode|  Make sure it's short, concise and there is validation for the user's input.| 10 mins| Sep 19|C|
+| 3           | Design and complete system diagram | Create a diagram of minimal requirements for the program and the meaning of the symbol.|10 mins|Sep 16|A|          |
+| 4           | Create the first sketch of the application flow and the system diagram |Use simplified blocks with detailed annotation for each feature. |20 mins|Sep 17|B|
 |             |                             |                                                                 |                |                        |           |
 |             |                             |                                                                 |                |                        |           |
 
