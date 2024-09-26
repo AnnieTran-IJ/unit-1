@@ -27,7 +27,14 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
 **Fig 1.** System Diagram showing the minimal requirement for the hardware and software used for
 the proposed solution and subfiles of each program feature. The lock indicates encryption.
 ### Flow diagrams for algorithms
+![Algorithm Diagram 1](https://github.com/user-attachments/assets/925f0b85-1473-4178-98fb-717a621ff26b)
+![Algorithm Diagram 2](https://github.com/user-attachments/assets/51486495-dba4-4b26-8200-bfdd0cddfafe)
+![Algorithm Diagram 3](https://github.com/user-attachments/assets/0270ef51-cff1-431e-b81b-493c30057ce4)
+
+**Fig ...** Flow diagrams of the top 3 notable functions within the entirety of the program [Link](https://www.figma.com/design/ugJAQwl7TcaKELyPff0Pni/Project-1-Flowchart-of-all-Sorts-%7C-Computer-Science?node-id=0-1&t=8g2uwhpa2hEhhKp9-1)).
 ### Data storage
+![image](https://github.com/user-attachments/assets/b745565b-9535-47f7-8622-ca3b1754a6aa)
+**Fig ...** Screenshot of how operational files are stored in the local databases.
 ### Sketches of the application (wireframe diagrams)
 ![Frame 1](https://github.com/user-attachments/assets/9ce6c9d5-551a-4e76-8a74-e1ac8c345960)
 **Fig ...** UI Wireframe of the application from front (to-do list program) to back (password management) features. (Click on the picture to zoom in, [Link](https://www.figma.com/design/ugJAQwl7TcaKELyPff0Pni/Project-1-Flowchart-of-all-Sorts-%7C-Computer-Science?node-id=0-1&t=8g2uwhpa2hEhhKp9-1))
