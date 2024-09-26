@@ -31,14 +31,17 @@ the proposed solution and subfiles of each program feature. The lock indicates e
 ![Algorithm Diagram 2](https://github.com/user-attachments/assets/51486495-dba4-4b26-8200-bfdd0cddfafe)
 ![Algorithm Diagram 3](https://github.com/user-attachments/assets/0270ef51-cff1-431e-b81b-493c30057ce4)
 
-**Fig ...** Flow diagrams of the top 3 notable functions within the entirety of the program [Link](https://www.figma.com/design/ugJAQwl7TcaKELyPff0Pni/Project-1-Flowchart-of-all-Sorts-%7C-Computer-Science?node-id=0-1&t=8g2uwhpa2hEhhKp9-1)).
+**Fig 2,3,4** Flow diagrams of the top 3 notable functions within the entirety of the program [Link](https://www.figma.com/design/ugJAQwl7TcaKELyPff0Pni/Project-1-Flowchart-of-all-Sorts-%7C-Computer-Science?node-id=0-1&t=8g2uwhpa2hEhhKp9-1)).
 ### Data storage
 ![image](https://github.com/user-attachments/assets/b745565b-9535-47f7-8622-ca3b1754a6aa)
-**Fig ...** Screenshot of how operational files are stored in the local databases.
+**Fig 5** Screenshot of how operational files are stored in the local databases.
 ### Sketches of the application (wireframe diagrams)
 ![Frame 1](https://github.com/user-attachments/assets/9ce6c9d5-551a-4e76-8a74-e1ac8c345960)
-**Fig ...** UI Wireframe of the application from front (to-do list program) to back (password management) features. (Click on the picture to zoom in, [Link](https://www.figma.com/design/ugJAQwl7TcaKELyPff0Pni/Project-1-Flowchart-of-all-Sorts-%7C-Computer-Science?node-id=0-1&t=8g2uwhpa2hEhhKp9-1))
+**Fig 6** UI Wireframe of the application from front (to-do list program) to back (password management) features. (Click on the picture to zoom in, [Link](https://www.figma.com/design/ugJAQwl7TcaKELyPff0Pni/Project-1-Flowchart-of-all-Sorts-%7C-Computer-Science?node-id=0-1&t=8g2uwhpa2hEhhKp9-1))
 ### Test plan
+![image](https://github.com/user-attachments/assets/5163c27d-685f-4287-a9ac-d154a15d9f9a)
+![image](https://github.com/user-attachments/assets/89c3af85-eae3-48b4-95cc-902ec50cfca2)
+**Fig 7** Tables of test plans for the whole program [Link](https://docs.google.com/spreadsheets/d/16D78V2URwI6cDunFxk_Q_kxG67kI8RO9ntwxtc2nse8/edit?usp=sharing)
 
 ## Record of Tasks
 | Task Number | Planned Action              | Planned Outcome                                                 | Time Estimated | Target Completion Date | Criterion |
