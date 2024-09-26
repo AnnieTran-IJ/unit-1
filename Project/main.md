@@ -22,10 +22,10 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
  * The terminal is where users interact with the program.
 ## Criterion B: Design
 ### System Diagram
-![2025  Project Unit1 (1)](https://github.com/user-attachments/assets/6b2fb7c0-865e-4949-a3a6-3e79a7760b7e)
+![2025  Project Unit1](https://github.com/user-attachments/assets/e5085606-4396-4691-8c1b-2ab0e40f1103)
 
 **Fig 1.** System Diagram showing the minimal requirement for the hardware and software used for
-proposed solution. The lock indicates encryption.
+the proposed solution and subfiles of each program feature. The lock indicates encryption.
 ### Flow diagrams for algorithms
 ### Data storage
 ### Sketches of the application (wireframe diagrams)
