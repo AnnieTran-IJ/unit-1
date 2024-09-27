@@ -47,10 +47,17 @@ the proposed solution and subfiles of each program feature. The lock indicates e
 | Task Number | Planned Action              | Planned Outcome                                                 | Time Estimated | Target Completion Date | Criterion |
 |-------------|-----------------------------|-----------------------------------------------------------------|----------------|------------------------|-----------|
 | 1           | Consulting with the client about the success criteria and their expectations of the project outcome. | Create a detailed list of requirements and a basic outline of the program. | 25 min | Sep 12 | A |
-| 2           | Develop the welcome interface to default mode|  Make sure it's short, concise and there is validation for the user's input.| 10 mins| Sep 19|C|
-| 3           | Design and complete system diagram | Create a diagram of minimal requirements for the program and the meaning of the symbol.|10 mins|Sep 16|A|          |
+| 2           | Design and complete system diagram | Create a diagram of minimal requirements for the program and the meaning of the symbol.|10 mins|Sep 16|A|          |
+| 3           | Cross-check the direction of the project with the client once again.|Detailed justification for the proposed solution and get approval from the client.|15 mins|Sep 17|A|
+| 3           | Draw 3 flowcharts for the Password Manager functions (password validation and encryption).|A clear and simple flowchart for clients to visualize how the password management program works|15 mins|Sep 18|B|
 | 4           | Create the first sketch of the application flow and the system diagram |Use simplified blocks with detailed annotation for each feature. |20 mins|Sep 17|B|
-|             |                             |                                                                 |                |                        |           |
-|             |                             |                                                                 |                |                        |           |
+| 5           | Create an outline of the test plan, listing key features to be tested (input validation, password encryption, environment test, etc.).|Ensure comprehensive testing by preparing a plan that covers all essential functions of the product.|20 mins||Sep 18 |B|
+| 6            |Develop the welcome interface with input validation for user credentials (password and username setup).|Ensure the interface is concise, and that validation ensures secure user input (e.g., strong and hidden password rules, proper username structure).|30 mins|Sep 18|C|
+| 7            |Develop the To-Do List feature (task creation, editing, deletion, and sorting).|Enable users to manage tasks effectively, with all core features implemented and working as expected.|35 mins|Sep 19|C|
+| 8            |Conduct initial testing of the To-Do List and change to Password Manager mode.|Focus on input validation, encryption, and UI flow and identify any early bugs existing|30 mins|Sep 19|C|
+| 9            |Develop the Password Encryption Program with encrypted databases.|Develop suitable algorithms for user's password storage along with other functions (Creation, Read, Update, and Delete).|40 mins|Sep 21|C|
+| 10            |Conduct final testing of the whole program.|Use the test plan to keep track of the quality of all features and finalize the program to be presented to the client.|25 mins|Sep 19|C|
+
+
 
 ## Criterion C: Development 
