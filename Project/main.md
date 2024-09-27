@@ -60,7 +60,7 @@ the proposed solution and subfiles of each program feature. The lock indicates e
 
 
 ## Criterion C: Development 
-### Program Walkthrough: [Video](https://docs.google.com/spreadsheets/d/16D78V2URwI6cDunFxk_Q_kxG67kI8RO9ntwxtc2nse8/edit?usp=sharing](https://drive.google.com/file/d/1r8YvnBgq_azkPeXVgwkXHj00r0PbU-wd/view?usp=sharing)
+### Program Walkthrough: [Video](https://drive.google.com/file/d/1r8YvnBgq_azkPeXVgwkXHj00r0PbU-wd/view?usp=sharing)
 
 ## Reference Sources:
 - Getpass() and Getuser() in Python (Password without Echo).” GeeksforGeeks, 11 May 2017, www.geeksforgeeks.org/getpass-and-getuser-in-python-password-without-echo/.
