@@ -10,7 +10,7 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
 #### 1. Task Tracking Mode (Default Mode):
   * The users can input new tasks, mark tasks as done, and view the total list of tasks
 #### 2. Secret Code for Switching Modes:
-  * When the user enters the secret code (e.g., open123), the program will switch from task tracking to password manager mode.
+  * When the user enters the secret code (e.g., thesecretcode123), the program will switch from task tracking to password manager mode.
   * The program will automatically exit after the third incorrect attempt.
   * No visible indication that the password manager exists unless the correct code is entered.
 #### 3. Password Manager Mode (Secure Mode):
@@ -61,3 +61,4 @@ the proposed solution and subfiles of each program feature. The lock indicates e
 
 
 ## Criterion C: Development 
+## Reference Sources:
