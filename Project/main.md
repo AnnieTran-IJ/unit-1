@@ -16,7 +16,6 @@ Thus, I proposed to develop a custom-built, multi-functional tool for the compan
 #### 3. Password Manager Mode (Secure Mode):
   * The users can perform CRUD operations (Create, Read, Update, Delete): view the stored list of passwords, create and add new passwords, update current passwords, or delete passwords (confirmation needed).
   * Passwords will be securely encrypted when stored (using alphabet rotation).
-  * The password manager feature will automatically exit after 30 seconds of inactivity to prevent unauthorized access.
   * Save passwords permanently and securely.
 #### 4. Others: 
  * The terminal is where users interact with the program.
