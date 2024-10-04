@@ -7,8 +7,30 @@
 ## Flow Chart
 ## Code
 ```.py
-print("Hello World")
+def get_l3tt3r(msg):
+    word = []
+    for char in msg:
+        if char == "a":
+            word.append("4")
+        elif char == "e":
+            word.append("3")
+        elif char == "i":
+            word.append("1")
+        elif char == "o":
+            word.append("0")
+        elif char == " ":
+            word.append("_")
+        else:
+            word.append(char)
+
+    return ''.join(word)
+# Test
+print(get_l3tt3r("Hello World"))
+print(get_l3tt3r("Why did I choose CS?"))
+print(get_l3tt3r("Remember the Figure Caption"))
+
 ```
 ## Proof of work
-![image](https://github.com/user-attachments/assets/6351c31e-0451-45df-88ae-e77008268927)
+![image](https://github.com/user-attachments/assets/365bf033-9b2f-4d94-b970-e14b415c18b2)
+
 
