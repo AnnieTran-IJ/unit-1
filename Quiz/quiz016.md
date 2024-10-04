@@ -10,4 +10,5 @@
 print("Hello World")
 ```
 ## Proof of work
-*Run it with the input and output given*
+![image](https://github.com/user-attachments/assets/6351c31e-0451-45df-88ae-e77008268927)
+
