@@ -6,7 +6,24 @@
 ## Flow Chart
 ## Code
 ```.py
-print("Hello World")
+def average_length(words):
+    total_chars = 0
+    total_words = len(words)
+
+    for word in words:
+        total_chars += len(word.replace(" ", ""))
+    if total_words > 0:
+        return total_chars / total_words
+    else:
+        return 0.0
+
+
+#Test:
+print(average_length(["hello", "main"]))
+print(average_length(["Peru", "France", "Nepal"]))
+print(average_length(["Computer Science", "Art"]))
+print(average_length(["one", "two"]))
 ```
 ## Proof of work
-*Run it with the input and output given*
+![image](https://github.com/user-attachments/assets/5d88d992-2410-4f48-bd9a-7986deb845af)
+
