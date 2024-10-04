@@ -13,7 +13,7 @@ def powersTen_final(value):
     value_str = f"{value:,.12f}"
     integer_part, decimal_part = value_str.split(".")
 
-    decimal_part = decimal_part.rstrip('0')
+    decimal_part = decimal_part.rstrip('0') #rstrip is to remove trailing zero
 
     if decimal_part:
         return f"{integer_part}." + decimal_part
@@ -49,7 +49,6 @@ def powers_of_ten(input_value):
 #Test
 input_value = 1
 print(powers_of_ten(input_value))
-
 ```
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/45c8f922-2fa7-4cb3-a525-a09af4f82617)
