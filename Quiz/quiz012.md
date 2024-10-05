@@ -4,6 +4,8 @@
 ![image](https://github.com/user-attachments/assets/be8c1301-7dde-4b6b-8a3e-21c9286aa800)
 
 ## Flow Chart
+![image](https://github.com/user-attachments/assets/7b76a59b-8fa9-465b-bb03-4e5e16ac7afe)
+
 ## Code
 ```.py
 def mystery(a,b):
