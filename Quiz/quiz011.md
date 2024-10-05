@@ -4,6 +4,9 @@
 ![image](https://github.com/user-attachments/assets/70e2fd9d-1be1-40d7-8595-1ffa3f38a74a)
 
 ## Flow Chart
+![image](https://github.com/user-attachments/assets/2c9d258a-4c79-46b1-b900-cc9f1dd0127c)
+![image](https://github.com/user-attachments/assets/6b9da864-f7e5-4cf3-88ec-1bb9c902c3f4)
+
 ## Code
 ```.py
 def show_days_in_month(month_name):
