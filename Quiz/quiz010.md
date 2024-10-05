@@ -4,6 +4,8 @@
 ![image](https://github.com/user-attachments/assets/660e1e48-f50c-459f-bfd0-2b8d67bde9e8)
 
 ## Flow Chart
+![image](https://github.com/user-attachments/assets/3fba69a2-fef4-4beb-9f2a-053392a7d9f4)
+
 ## Code
 ```.py
 def powersTen_final(value):
