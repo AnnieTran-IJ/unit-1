@@ -4,6 +4,8 @@
 ![image](https://github.com/user-attachments/assets/ba45fbe8-0b35-4772-a19c-8972761deaf2)
 
 ## Flow Chart
+![image](https://github.com/user-attachments/assets/956cdaae-dc20-479e-9d8a-91a4accfab4e)
+
 ## Code
 ```.py
 
