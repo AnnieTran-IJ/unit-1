@@ -5,6 +5,8 @@
 ![image](https://github.com/user-attachments/assets/a5cde70b-321b-44d4-8657-2b343411c8f6)
 
 ## Flow Chart
+![image](https://github.com/user-attachments/assets/c54905a4-424e-45e9-be6c-0badf2a86036)
+
 ## Code
 ```.py
 def get_l3tt3r(msg):
