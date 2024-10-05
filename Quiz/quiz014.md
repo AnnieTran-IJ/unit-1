@@ -4,6 +4,8 @@
 ![image](https://github.com/user-attachments/assets/168dcf71-fc6a-47d5-a3f6-6df5cdf9aa04)
 
 ## Flow Chart
+![image](https://github.com/user-attachments/assets/d59a0dd6-4e76-48f6-99c2-f2ffd3b20ca7)
+
 ## Code
 ```.py
 def average_length(words):
